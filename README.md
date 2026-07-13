@@ -7,22 +7,19 @@
   <img width="43%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LaminLeonardo&layout=compact&theme=tokyonight&title_color=00bfbf&hide_border=true" alt="Top Langs" />
 </div>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=LaminLeonardo&theme=tokyonight&hide_border=true&fire=00bfbf&ring=00bfbf" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LaminLeonardo&theme=dracula&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
-</p>
+<div align="center">
+  <br>
+  <img width="92%" src="https://github-readme-streak-stats.herokuapp.com/?user=LaminLeonardo&theme=tokyonight&hide_border=true&fire=00bfbf&ring=00bfbf" alt="GitHub Streak" />
+</div>
 
 ---
 
 ##  About Me
-I am a Software Engineering student and Fullstack Developer with a **strong focus on Backend development**[cite: 1]. I enjoy creating efficient REST APIs, optimizing system integrations, managing databases, and automating processes to eliminate manual performance bottlenecks[cite: 1].
+I am a Software Engineering student and Fullstack Developer with a **strong focus on Backend development**. I enjoy creating efficient REST APIs, optimizing system integrations, managing databases, and automating processes to eliminate manual performance bottlenecks.
 
--  **Education:** Bachelor's in Software Engineering (Católica SC) & Systems Development Graduate (SENAI)[cite: 1].
--  **Current Focus:** Building scalable systems using C# (.NET Core), Web APIs, and robust relational data structures[cite: 1].
--  **Connect with me:** [LinkedIn](https://linkedin.com/in/leonardolamin) | LeonardoLamin.Tech@gmail.com[cite: 1]
+-  **Education:** Bachelor's in Software Engineering (Católica SC) & Systems Development Graduate (SENAI).
+-  **Current Focus:** Building scalable systems using C# (.NET Core), Web APIs, and robust relational data structures.
+-  **Connect with me:** [LinkedIn](https://linkedin.com/in/leonardolamin) | LeonardoLamin.Tech@gmail.com
 
 ---
 
