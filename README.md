@@ -3,11 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=32&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+Lamin;Fullstack+Developer;Focused+on+.NET+Backend;Software+Engineering+Student;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <!-- CARD DE STATUS -->
-  <img width="47%" src="https://github-stats-extended.vercel.app/api?username=LaminLeonardo&show_icons=true&count_private=true&theme=tokyonight&title_color=00bfbf&icon_color=00bfbf&hide_border=true&cache_seconds=1800&v=2" alt="Leonardo Lamin github stats" /> 
-  
-  <!-- CARD DE LINGUAGENS (Com correção de Cache, inclusão de Forks e ocultação de CSS/HTML) -->
-  <img width="47%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LaminLeonardo&layout=compact&theme=tokyonight&title_color=00bfbf&hide_border=true&cache_seconds=1800&count_private=true&forks=true&hide=css,html&v=2" alt="Top Langs" />
+  <!-- CARD DE STATUS: Usando a nova API recomendada com quebra de cache -->
+  <img width="47%" src="https://github-stats-extended.vercel.app/api?username=LaminLeonardo&show_icons=true&count_private=true&theme=tokyonight&title_color=00bfbf&icon_color=00bfbf&hide_border=true&cache_seconds=120&v=999" alt="Leonardo Lamin github stats" /> 
+  <!-- CARD DE LINGUAGENS: Usando a nova API recomendada com quebra de cache, ocultando CSS e HTML -->
+  <img width="47%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LaminLeonardo&layout=compact&theme=tokyonight&title_color=00bfbf&hide_border=true&cache_seconds=120&count_private=true&hide=css,html&v=999" alt="Top Langs" />
 </div>
 
 <div align="center">
@@ -38,6 +37,7 @@ I am a Software Engineering student and Fullstack Developer with a **strong focu
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-0D1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC292B&labelColor=0D1117)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=0D1117)
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117)
+![Sequelize](https://img.shields.io/badge/-Sequelize-0D1117?style=for-the-badge&logo=sequelize&logoColor=52B0E7&labelColor=0D1117)
 
 ###  Frontend Skills:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)
