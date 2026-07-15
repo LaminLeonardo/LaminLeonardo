@@ -3,13 +3,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=32&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+Lamin;Fullstack+Developer;Focused+on+.NET+Backend;Software+Engineering+Student;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=LaminLeonardo&show_icons=true&count_private=true&theme=tokyonight&title_color=00bfbf&icon_color=00bfbf&hide_border=true&cache_seconds=1800" alt="Leonardo Lamin github stats" /> 
-  <img width="43%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LaminLeonardo&layout=compact&theme=tokyonight&title_color=00bfbf&hide_border=true&cache_seconds=1800" alt="Top Langs" />
+  <!-- CARD DE STATUS -->
+  <img width="47%" src="https://github-stats-extended.vercel.app/api?username=LaminLeonardo&show_icons=true&count_private=true&theme=tokyonight&title_color=00bfbf&icon_color=00bfbf&hide_border=true&cache_seconds=1800&v=2" alt="Leonardo Lamin github stats" /> 
+  
+  <!-- CARD DE LINGUAGENS (Com correção de Cache, inclusão de Forks e ocultação de CSS/HTML) -->
+  <img width="47%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LaminLeonardo&layout=compact&theme=tokyonight&title_color=00bfbf&hide_border=true&cache_seconds=1800&count_private=true&forks=true&hide=css,html&v=2" alt="Top Langs" />
 </div>
 
 <div align="center">
   <br>
-  <img width="92%" src="https://github-readme-streak-stats.herokuapp.com/?user=LaminLeonardo&theme=tokyonight&hide_border=true&fire=00bfbf&ring=00bfbf&cache_seconds=1800" alt="GitHub Streak" />
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=LaminLeonardo&theme=tokyonight&hide_border=true&fire=00bfbf&ring=00bfbf&cache_seconds=1800" alt="GitHub Streak" />
 </div>
 
 ---
