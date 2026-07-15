@@ -32,6 +32,7 @@ I am a Software Engineering student and Fullstack Developer with a **strong focu
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=ED8B00&labelColor=0D1117)
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=0D1117)
 
 ###  Databases & ORMs:
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-0D1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC292B&labelColor=0D1117)
